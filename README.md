@@ -1,4 +1,9 @@
 ## Hi there :wave:
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI0czF0MzBqaW1wdzMyZ3Jmb2Zka2l0d2tmY2UxOHJsMW5zZzMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/khlXYRtMXge7ePfEeB/giphy.gif" width="300"/>
+</div>
+
 #### My name is Shafagh Rastegari. I studied Computer Engineering at the Iran University of Science and Technology and currently, I'm a master's student in Artificial Intelligence at the University of Bologna. I'm interested in Artificial Intelligence, Cloud Computing, SDN, and Networks.
 
 ### GitHub Stats
