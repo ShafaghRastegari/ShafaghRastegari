@@ -1,4 +1,4 @@
-## Hi there :wave:
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI0czF0MzBqaW1wdzMyZ3Jmb2Zka2l0d2tmY2UxOHJsMW5zZzMwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/khlXYRtMXge7ePfEeB/giphy.gif" width="300"/>
@@ -22,3 +22,11 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
+
+### Contact
+
+<div align='center'>
+  <a href='shafaghrastegari@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href='www.linkedin.com/in/shafagh-rastegari-411767223'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href='https://huggingface.co/Shafagh99'><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" alt="HuggingFace"/></a>
+</div>
