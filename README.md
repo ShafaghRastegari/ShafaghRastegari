@@ -8,7 +8,7 @@
 
 ### GitHub Stats
 
-<img hspace="2" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShafaghRastegari&line_height=21&theme=gotham&border_color=2aa789&show_icons=true&include_all_commits=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaghRastegari&langs_count=6&theme=gotham&border_color=2aa789&hide=TeX&layout=compact&count_private=false"/>
+<img hspace="2" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShafaghRastegari&count_private=true&line_height=21&theme=gotham&border_color=2aa789&show_icons=true&include_all_commits=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaghRastegari&count_private=true&langs_count=6&theme=gotham&border_color=2aa789&hide=TeX&layout=compact"/>
 
 
 ### Technologies
