@@ -13,9 +13,11 @@
 
 ### Technologies
 
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=D00000)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
