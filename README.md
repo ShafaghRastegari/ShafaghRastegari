@@ -15,6 +15,10 @@
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000?&logo=Tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras&logoColor=D00000)
+![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=LangChain)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Pandas](https://img.shields.io/badge/-pandas-000?&logo=pandas)
+![Sickit-learn](https://img.shields.io/badge/-Scikitlearn-000?&logo=Scikit-learn)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
