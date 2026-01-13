@@ -6,9 +6,9 @@
 
 #### My name is Shafagh Rastegari. I studied Computer Engineering at the Iran University of Science and Technology and currently, I'm a master's student in Artificial Intelligence at the University of Bologna. I'm interested in Artificial Intelligence, Cloud Computing, SDN, and Networks.
 
-### GitHub Stats
+<!---### GitHub Stats
 
-<img hspace="2" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShafaghRastegari&count_private=true&line_height=21&theme=gotham&border_color=2aa789&show_icons=true&include_all_commits=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaghRastegari&count_private=true&langs_count=6&theme=gotham&border_color=2aa789&hide=TeX&layout=compact"/>
+<img hspace="2" height="150px" src="https://github-readme-stats.vercel.app/api?username=ShafaghRastegari&count_private=true&line_height=21&theme=gotham&border_color=2aa789&show_icons=true&include_all_commits=true"/><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShafaghRastegari&count_private=true&langs_count=6&theme=gotham&border_color=2aa789&hide=TeX&layout=compact"/>-->
 
 
 ### Technologies
